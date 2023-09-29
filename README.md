@@ -1,0 +1,1 @@
+# devApp_gestaoinventario
