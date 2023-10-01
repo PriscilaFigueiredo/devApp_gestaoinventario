@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>visible-xs</class_name>
+        <container_class_name/>
+        <name>Copy of index (1) - Container 2</name>
+        <order>2</order>
+        <semantic_tag/>
+        <sp_page display_value="copy_of_vieira_index_1">ca741d329761b5105bd0ffb0f053afc2</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 17:03:03</sys_created_on>
+        <sys_id>c67415729761b5105bd0ffb0f053af34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of index (1) - Container 2</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
+        <sys_update_name>sp_container_c67415729761b5105bd0ffb0f053af34</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 17:03:03</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</application>
+        <file_path/>
+        <instance_id>2be02bb41bb3a594c84543f4bd4bcb2a</instance_id>
+        <instance_name>dev178751</instance_name>
+        <name>sp_container_c67415729761b5105bd0ffb0f053af34</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>visible-xs</class_name><container_class_name/><name>Copy of index (1) - Container 2</name><order>2</order><semantic_tag/><sp_page display_value="copy_of_vieira_index_1">ca741d329761b5105bd0ffb0f053afc2</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-01 17:03:03</sys_created_on><sys_id>c67415729761b5105bd0ffb0f053af34</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Copy of index (1) - Container 2</sys_name><sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope><sys_update_name>sp_container_c67415729761b5105bd0ffb0f053af34</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-01 17:03:03</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>2021638342</payload_hash>
+        <record_name>Copy of index (1) - Container 2</record_name>
+        <reverted_from/>
+        <source>383dfb319765b1105bd0ffb0f053aff0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 17:03:03</sys_created_on>
+        <sys_id>467415729761b5105bd0ffb0f053af36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aec31887d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 17:03:03</sys_updated_on>
+        <type>Container</type>
+        <update_guid>8a7415723461b510563b05d3f96fcd35</update_guid>
+        <update_guid_history>8a7415723461b510563b05d3f96fcd35:2021638342</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Copy of index (1) - Container 2">058495729761b5105bd0ffb0f053af80</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 17:03:15</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>2c29fd63904f4e7a913e270e5ebe1559</sys_id>
+        <sys_metadata>c67415729761b5105bd0ffb0f053af34</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of index (1) - Container 2</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
+        <sys_scope_delete display_value="">3f0c6612b37d4bb49c45ba5d5780aec4</sys_scope_delete>
+        <sys_update_name>sp_container_c67415729761b5105bd0ffb0f053af34</sys_update_name>
+        <sys_update_version display_value="sp_container_c67415729761b5105bd0ffb0f053af34">467415729761b5105bd0ffb0f053af36</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 17:03:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="tab produto" language="en" table="x_1129243_gest_o_0_tabela_ges_um">
+    <sys_documentation element="" label="Produto" language="en" table="x_1129243_gest_o_0_tabela_ges_um">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>tab produto</label>
+            <label>Produto</label>
             <language>en</language>
             <name>x_1129243_gest_o_0_tabela_ges_um</name>
-            <plural>tab produtos</plural>
+            <plural>Produtos</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2023-09-27 15:57:49</sys_created_on>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_name>tab produto</sys_name>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Produto</sys_name>
             <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
             <sys_policy/>
             <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
             <sys_update_name>sys_documentation_x_1129243_gest_o_0_tabela_ges_um__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-27 17:39:16</sys_updated_on>
+            <sys_updated_on>2023-10-01 21:27:29</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

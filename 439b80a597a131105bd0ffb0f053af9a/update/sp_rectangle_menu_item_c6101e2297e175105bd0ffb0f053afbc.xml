@@ -6,36 +6,36 @@
         <display_1/>
         <display_2/>
         <display_date/>
-        <filter/>
-        <glyph/>
+        <filter>null</filter>
+        <glyph>shopping-bag</glyph>
         <hint/>
         <kb_article/>
         <kb_category/>
         <kb_topic/>
-        <label/>
+        <label>Novo Pedido</label>
         <order>100</order>
         <record_script/>
         <sc_cat_item/>
         <sc_category/>
         <short_description/>
         <sp_page/>
-        <sp_rectangle_menu display_value="Main menu">87694aaa97a175105bd0ffb0f053afb3</sp_rectangle_menu>
+        <sp_rectangle_menu display_value="Vieiras Header menu">87694aaa97a175105bd0ffb0f053afb3</sp_rectangle_menu>
         <sp_rectangle_menu_item/>
         <sys_class_name>sp_rectangle_menu_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-01 02:45:19</sys_created_on>
         <sys_id>c6101e2297e175105bd0ffb0f053afbc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Novo Pedido</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
         <sys_update_name>sp_rectangle_menu_item_c6101e2297e175105bd0ffb0f053afbc</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-01 02:45:19</sys_updated_on>
+        <sys_updated_on>2023-10-01 21:30:50</sys_updated_on>
         <table/>
         <type>url</type>
-        <url>https://dev178751.service-now.com/vieira_infotech</url>
+        <url>https://dev178751.service-now.com/vieiras_infotech?id=form&amp;is_new_order=true&amp;table=x_1129243_gest_o_0_tab_pedidos&amp;sys_id=-1</url>
         <url_target/>
     </sp_rectangle_menu_item>
     <sys_translated_text action="delete_multiple" query="documentkey=c6101e2297e175105bd0ffb0f053afbc"/>
