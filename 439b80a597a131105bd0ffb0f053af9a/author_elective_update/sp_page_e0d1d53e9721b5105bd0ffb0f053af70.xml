@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>other</category>
+        <css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <human_readable_url_structure/>
+        <id>copy_of_index_2</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 16:51:28</sys_created_on>
+        <sys_id>e0d1d53e9721b5105bd0ffb0f053af70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_index_2</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
+        <sys_update_name>sp_page_e0d1d53e9721b5105bd0ffb0f053af70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 16:51:28</sys_updated_on>
+        <title>Copy of Home Page (2)</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=e0d1d53e9721b5105bd0ffb0f053af70"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</application>
+        <file_path/>
+        <instance_id>2be02bb41bb3a594c84543f4bd4bcb2a</instance_id>
+        <instance_name>dev178751</instance_name>
+        <name>sp_page_e0d1d53e9721b5105bd0ffb0f053af70</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>other</category><css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css><draft>false</draft><dynamic_title_structure/><human_readable_url_structure/><id>copy_of_index_2</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-01 16:51:28</sys_created_on><sys_id>e0d1d53e9721b5105bd0ffb0f053af70</sys_id><sys_mod_count>0</sys_mod_count><sys_name>copy_of_index_2</sys_name><sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope><sys_update_name>sp_page_e0d1d53e9721b5105bd0ffb0f053af70</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-01 16:51:28</sys_updated_on><title>Copy of Home Page (2)</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=e0d1d53e9721b5105bd0ffb0f053af70"/></record_update>]]></payload>
+        <payload_hash>180029586</payload_hash>
+        <record_name>copy_of_index_2</record_name>
+        <reverted_from/>
+        <source>383dfb319765b1105bd0ffb0f053aff0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 16:51:29</sys_created_on>
+        <sys_id>24d1d53e9721b5105bd0ffb0f053af72</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aec26ef1b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 16:51:29</sys_updated_on>
+        <type>Page</type>
+        <update_guid>68d1d53ea121b510e1198a51e652a271</update_guid>
+        <update_guid_history>68d1d53ea121b510e1198a51e652a271:180029586</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="copy_of_index_2">4133d9fe9721b5105bd0ffb0f053af6b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 16:57:31</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>590e3f8917184b609bb1d9ba858f9590</sys_id>
+        <sys_metadata>e0d1d53e9721b5105bd0ffb0f053af70</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_index_2</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
+        <sys_scope_delete display_value="">3f0c6612b37d4bb49c45ba5d5780aec4</sys_scope_delete>
+        <sys_update_name>sp_page_e0d1d53e9721b5105bd0ffb0f053af70</sys_update_name>
+        <sys_update_version display_value="sp_page_e0d1d53e9721b5105bd0ffb0f053af70">24d1d53e9721b5105bd0ffb0f053af72</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 16:57:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

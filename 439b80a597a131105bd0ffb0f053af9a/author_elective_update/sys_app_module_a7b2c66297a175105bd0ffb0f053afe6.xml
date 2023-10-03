@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Vieiras Infotech ">54f10e2297a175105bd0ffb0f053af00</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Vieiras Infotech Portal</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>25</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>/vieiras_infotech</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 01:49:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7b2c66297a175105bd0ffb0f053afe6</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Vieiras Infotech Portal</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
+        <sys_update_name>sys_app_module_a7b2c66297a175105bd0ffb0f053afe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 12:52:32</sys_updated_on>
+        <timeline_page/>
+        <title>Vieiras Infotech Portal</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>sp_portal</window_name>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</application>
+        <file_path/>
+        <instance_id>2be02bb41bb3a594c84543f4bd4bcb2a</instance_id>
+        <instance_name>dev178751</instance_name>
+        <name>sys_app_module_a7b2c66297a175105bd0ffb0f053afe6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Vieiras Infotech ">54f10e2297a175105bd0ffb0f053af00</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Vieiras Infotech Portal</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>25</order><override_menu_roles>false</override_menu_roles><query>/vieiras_infotech</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-01 01:49:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a7b2c66297a175105bd0ffb0f053afe6</sys_id><sys_mod_count>4</sys_mod_count><sys_name>Vieiras Infotech Portal</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope><sys_update_name>sys_app_module_a7b2c66297a175105bd0ffb0f053afe6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-01 12:52:32</sys_updated_on><timeline_page/><title>Vieiras Infotech Portal</title><uncancelable>false</uncancelable><view_name/><window_name>sp_portal</window_name></sys_app_module></record_update>]]></payload>
+        <payload_hash>7191237</payload_hash>
+        <record_name>Vieiras Infotech Portal</record_name>
+        <reverted_from/>
+        <source>383dfb319765b1105bd0ffb0f053aff0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 12:52:32</sys_created_on>
+        <sys_id>102b5cbe972d75105bd0ffb0f053af4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18aeb4c2c750000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 12:52:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>182b5cbef92d7510a6c10beb900bc04d</update_guid>
+        <update_guid_history>182b5cbef92d7510a6c10beb900bc04d:7191237,c78646a63ea17510f2230e28e14dfc8f:-1065356192,fc554a2674a17510a002087b6a34af9e:-423866927,92a44a26c9a175102c349d2c3d569999:7191237,ff6386a291a17510425cd5f51fb938f7:-1636194612</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vieiras Infotech Portal">4f5b303697ed75105bd0ffb0f053afb9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 15:13:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>07be96c5750f4ee8812749e1e0534e10</sys_id>
+        <sys_metadata>a7b2c66297a175105bd0ffb0f053afe6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vieiras Infotech Portal</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
+        <sys_scope_delete display_value="">3f0c6612b37d4bb49c45ba5d5780aec4</sys_scope_delete>
+        <sys_update_name>sys_app_module_a7b2c66297a175105bd0ffb0f053afe6</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a7b2c66297a175105bd0ffb0f053afe6">102b5cbe972d75105bd0ffb0f053af4e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 15:13:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 01:45:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>54f10e2297a175105bd0ffb0f053af00</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Vieiras Infotech </sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
+        <sys_update_name>sys_app_application_54f10e2297a175105bd0ffb0f053af00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 01:46:39</sys_updated_on>
+        <title>Vieiras Infotech </title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</application>
+        <file_path/>
+        <instance_id>2be02bb41bb3a594c84543f4bd4bcb2a</instance_id>
+        <instance_name>dev178751</instance_name>
+        <name>sys_app_application_54f10e2297a175105bd0ffb0f053af00</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-01 01:45:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>54f10e2297a175105bd0ffb0f053af00</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Vieiras Infotech </sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope><sys_update_name>sys_app_application_54f10e2297a175105bd0ffb0f053af00</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-01 01:46:39</sys_updated_on><title>Vieiras Infotech </title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-2032762671</payload_hash>
+        <record_name>Vieiras Infotech </record_name>
+        <reverted_from/>
+        <source>383dfb319765b1105bd0ffb0f053aff0</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 01:46:39</sys_created_on>
+        <sys_id>56b2026297a175105bd0ffb0f053af6c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae8ea8b3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 01:46:39</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>dab20262d4a1751098bd4d38150c706b</update_guid>
+        <update_guid_history>dab20262d4a1751098bd4d38150c706b:-2032762671,b182066291a175109a8487dc81c1947f:-1489178263</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vieiras Infotech ">635ce6b697e5b5105bd0ffb0f053af74</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-01 23:27:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0c59e8d99e314bc0ae7dd2ae89612790</sys_id>
+        <sys_metadata>54f10e2297a175105bd0ffb0f053af00</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vieiras Infotech </sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
+        <sys_scope_delete display_value="">3f0c6612b37d4bb49c45ba5d5780aec4</sys_scope_delete>
+        <sys_update_name>sys_app_application_54f10e2297a175105bd0ffb0f053af00</sys_update_name>
+        <sys_update_version display_value="sys_app_application_54f10e2297a175105bd0ffb0f053af00">56b2026297a175105bd0ffb0f053af6c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-01 23:27:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
