@@ -26,16 +26,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-01 00:24:54</sys_created_on>
         <sys_id>76cfed2e972175105bd0ffb0f053af1d</sys_id>
-        <sys_mod_count>33</sys_mod_count>
-        <sys_name>Vieiras_Infotech</sys_name>
+        <sys_mod_count>34</sys_mod_count>
+        <sys_name>Vieiras_Infotech | Portal</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1129243_gest_o_0">439b80a597a131105bd0ffb0f053af9a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">439b80a597a131105bd0ffb0f053af9a</sys_scope>
         <sys_update_name>sp_portal_76cfed2e972175105bd0ffb0f053af1d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-10-01 17:48:27</sys_updated_on>
+        <sys_updated_on>2023-10-14 22:54:52</sys_updated_on>
         <theme display_value="La Jolla">a7a6e78277002300a6e592718a10617a</theme>
-        <title>Vieiras_Infotech</title>
+        <title>Vieiras_Infotech | Portal</title>
         <ts_index_group/>
         <url_suffix>vieiras_infotech</url_suffix>
     </sp_portal>
